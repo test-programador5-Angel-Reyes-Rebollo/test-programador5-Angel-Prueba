@@ -1,8 +1,0 @@
-{
-  "name": "test-programador5-angel-prueba",
-  "compatibility_date": "2025-11-01",
-  "assets": {
-    "directory": "./dist",
-    "not_found_handling": "single-page-application"
-  }
-}
